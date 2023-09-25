@@ -125,3 +125,22 @@ form.example input[type=text] {
     height: 600px;
     position: relative;
   }
+
+  .third_content{
+    position: absolute;
+    top: 220px;
+    left: 112px;
+    font-family: YeezyzTStar,AdineuePRO,Arial;
+    font-size: 22px;
+    font-weight: bold;
+        /* letter-spacing: 5; */
+
+  }
+  .third_button{
+    background-color: black;
+    color: #fff;
+    width: 173px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 14px;
+  }
