@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+}
+
+
+.first_banner{
+    background-color:black;
+    width: 100%;
+    color:#fff;
+    height: 30px;
+    font-family: "AdihausDIN",Helvetica,Arial,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    /* justify-content: center; */
+   
+
+   
+}
+
+/* .first_banner.first_left_head{
+    text-decoration: none;
+    margin: 150px;
+} */
+
+.first_left_head{
+    padding-top: 10px;
+    width: 514px;
+}
+.first_center_head{
+    padding-top: 10px;
+    width: 514px;
+}
+.first_right_head{
+    padding-top: 10px;
+    width: 514px;
+}
+.left_1,.left_2 {
+    display: inline-block; /* This makes them appear side by side */
+    /* width: 100px; 
+    box-sizing: border-box; */
+    /* padding: 10px; Adjust padding as needed */
+}
+/* .left_1{
+    width: 50px;
+}
+.left_2{
+    width: 50px;
+} */
+
+.second_banner{
+    height: 80px;
+    /* background: #fff; */
+    display: flex;
+    /* position: sticky; */
+    padding: 0 40px;
+    top: 0;
+    /* z-index: 1; */
+    
+}
+.left_1 img{
+    margin-top: 20px;
+}
+/* .center_2{
+     width: 750px;
+} */
+.center_2 ul li{
+    padding: 32px 0 0 35px;
+    font-family: "AdihausDIN",Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.right_3{
+    height: 80px;
+    width: 500px;
+}
+.right_3 ul li{
+    padding-left: 20px; 
+    padding-bottom: 10px;
+    font-family: "AdihausDIN",Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    margin-top: 10px;
+    margin: 0;
+    /* margin-bottom: 10px;  */
+    align-items: center;
+
+}
+.right_3 ul{
+     margin-top: 9px;
+     margin-left: 177px;
+}
+form.example input[type=text] {
+    /* margin-left: 128px; */
+    /* font-size: 15px; */
+    padding: 4px 7px;
+    border: 5px solid black;
+    float: left;
+    background: #eae8e8;
+    border: 0;
+    width: 60%;
+    color: black
+  }
+  form.example button {
+    float: left;
+    /* width: 10%; */
+    background: #cdcbcb;
+    color: white;
+    font-size: 15px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    border: 0;
+    padding: 4px 7px;
+  }
+  button .fa-search{
+    color: black;
+    
+  }
+  .profile{
+    margin-left: 7px;
+    margin-top: 5px;
+  }
+  .third_banner{
+    height: 600px;
+    position: relative;
+  }
