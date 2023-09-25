@@ -199,4 +199,137 @@ form.example input[type=text] {
 }
 .sixth_inside_content button{
     border-width: thin;
+}
+.seventh_banner{
+    margin-top: 10px;
+}  
+.up_box_1{
+    width: 100%;
+    font-family: "AdihausDIN-CnBoldItalic","AdihausDIN Cn",Helvetica, Arial, sans-serif;
+    letter-spacing: .025em;
+    font-weight: 600;
+    max-inline-size: fit-content;
+    margin-left: 118px;
+    height: 35px;
+    font-size: 16px;
+}
+.eighth_banner{
+    height: 300px;
+    display: flex;
+    margin: 10px;
+    justify-content: space-evenly;
+    padding: 0 60px 0 60px;
+
+}
+.first_box_1{
+    width: 400px;
+    position: relative;
+  }
+  .center_box_2{
+    width: 400px;
+    position: relative;
+  }
+  .right_box_3{
+    width: 400px;
+    position: relative;
+  }
+  .img_1{
+    width: 400px;
+  }
+  .img_2{
+    position: absolute;
+    width: 400px;
+  }
+  .img_3{
+    position: absolute;
+    width: 400px; 
+  }
+  .para{
+    position: absolute;
+    top: 130px;
+    left: 183px;
+    color: #fff;
+    font-family: AdihausDIN;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  
+.top_box_1{
+    font-family: "AdihausDIN-CnBoldItalic","AdihausDIN Cn",Helvetica, Arial, sans-serif;
+    letter-spacing: .025em;
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 0 113px;
+}
+
+.tenth_banner{
+    /* background-color: aqua; */
+    /* width: 100%; */
+    height: 400px;
+    display: flex;
+    padding: 0 100px;
+    justify-content: space-evenly;
+  }
+  .box_1{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .box_2{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .box_3{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .box_4{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .box_5{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .inside_con_1{
+    position: absolute;
+    bottom: 6px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px;
+  }
+  .inside_con_2{
+    position: absolute;
+    bottom: 6px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px;
+  }
+  .inside_con_3{
+    position: absolute;
+    bottom: -1px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px;
+  }
+  .inside_con_4{
+    position: absolute;
+    bottom: 2px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px;
+  }
+  .inside_con_5{
+    position: absolute;
+    bottom: -2px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px;
   }
