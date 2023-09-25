@@ -333,3 +333,99 @@ form.example input[type=text] {
     font-family: 'Helvetica','Arial',sans-serif;
     font-size: 14px;
   }
+  .eleventh_banner{
+    height: 50px;
+    margin-top: 20px;
+    padding: 0 100px;
+  }
+  .twe_first{
+    width: 300px;
+  }
+  .twe_second{
+    width: 300px;
+  }
+  .twe_third{
+    width: 300px;
+  }
+  .twe_fourth{
+    width: 300px;
+  }
+  .thirteenth_banner{
+    height: 40px;
+    margin-top: 240px;
+    padding: 0 100px;
+  }
+  .fourteenth_banner{
+    height: 400px;
+    padding: 0 100px;
+    display: flex;
+    justify-content:space-between;
+  }
+  .boxxx_1{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .boxxx_2{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .boxxx_3{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .boxxx_4{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .boxxx_5{
+    width: 250px;
+    height: 250px;
+    position: relative;
+  }
+  .fourteenth_banner{
+    height: 400px;
+    padding: 0 100px;
+    display: flex;
+    justify-content:space-between;
+  }
+  .final_con_1{
+    position: absolute;
+    bottom: -2px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px;
+
+  }
+  .final_con_2{
+    position: absolute;
+    bottom: -2px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px;
+  }
+  .final_con_3{
+    position: absolute;
+    bottom: -2px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px;
+
+  }
+  .final_con_4{
+    position: absolute;
+    bottom: -2px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px; 
+  }
+  .final_con_5{
+    position: absolute;
+    bottom: -2px;
+    left: 3px;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 14px;  
+  }
