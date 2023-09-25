@@ -144,3 +144,59 @@ form.example input[type=text] {
     font-weight: 700;
     font-size: 14px;
   }
+  .fourth_banner{
+    position: relative;
+  }
+.fourth_content{
+    position: absolute;
+    top: 204px;
+    left: 150px;
+    color: #fff;
+    font-weight: 600;
+    font-family: 'Helvetica','Arial',sans-serif;
+    font-size: 25px;
+    line-height: 32PX;
+}
+.fourth_down_content{
+    position:absolute ;
+    top: 300px;
+    left: 151px;
+    font-size: 18px;
+    color: #fff;
+    font-family: AdihausDIN;
+    font-weight: 400px;
+    display: flex;
+}
+
+.fourth_down2_content{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: AdihausDIN;  
+}
+.fifth_banner{
+    height: 50px;
+    position: relative;
+  }
+
+.fifth_content{
+    /* color: black; */
+    font-size: 23px;
+    font-family: "AdihausDIN-CnBoldItalic","AdihausDIN Cn",Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.sixth_inside_content{
+    height: 40px;
+    width: 415px;
+    margin: 11px 0 0 553px;
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.sixth_inside_content button{
+    border-width: thin;
+  }
