@@ -1,8 +1,6 @@
 body{
     margin: 0;
 }
-
-
 .first_banner{
     background-color:black;
     width: 100%;
@@ -12,17 +10,9 @@ body{
     font-size: 11px;
     font-weight: bold;
     text-align: center;
-    display: flex;
-    /* justify-content: center; */
-   
-
-   
+    display: flex;  
 }
 
-/* .first_banner.first_left_head{
-    text-decoration: none;
-    margin: 150px;
-} */
 
 .first_left_head{
     padding-top: 10px;
@@ -51,16 +41,17 @@ body{
 
 .second_banner{
     height: 80px;
-    /* background: #fff; */
+    background: #fff;
     display: flex;
-    /* position: sticky; */
+    position: sticky;
     padding: 0 40px;
     top: 0;
-    /* z-index: 1; */
+    z-index: 1;
     
 }
 .left_1 img{
     margin-top: 20px;
+    height: 50px;
 }
 /* .center_2{
      width: 750px;
@@ -93,12 +84,13 @@ body{
 form.example input[type=text] {
     /* margin-left: 128px; */
     /* font-size: 15px; */
-    padding: 4px 7px;
+    padding: 5px 7px;
     border: 5px solid black;
     float: left;
     background: #eae8e8;
     border: 0;
     width: 60%;
+   
     color: black
   }
   form.example button {
@@ -133,8 +125,8 @@ form.example input[type=text] {
     font-family: YeezyzTStar,AdineuePRO,Arial;
     font-size: 22px;
     font-weight: bold;
-        /* letter-spacing: 5; */
-
+     /* margin: 0; */
+       
   }
   .third_button{
     background-color: black;
@@ -165,7 +157,7 @@ form.example input[type=text] {
     color: #fff;
     font-family: AdihausDIN;
     font-weight: 400px;
-    display: flex;
+   
 }
 
 .fourth_down2_content{
@@ -182,7 +174,6 @@ form.example input[type=text] {
   }
 
 .fifth_content{
-    /* color: black; */
     font-size: 23px;
     font-family: "AdihausDIN-CnBoldItalic","AdihausDIN Cn",Helvetica, Arial, sans-serif;
     display: flex;
@@ -192,7 +183,6 @@ form.example input[type=text] {
     height: 40px;
     width: 415px;
     margin: 11px 0 0 553px;
-
     display: flex;
     justify-content: space-evenly;
 
@@ -321,7 +311,7 @@ form.example input[type=text] {
   }
   .inside_con_4{
     position: absolute;
-    bottom: 2px;
+    bottom: -2px;
     left: 3px;
     font-family: 'Helvetica','Arial',sans-serif;
     font-size: 14px;
@@ -337,6 +327,12 @@ form.example input[type=text] {
     height: 50px;
     margin-top: 20px;
     padding: 0 100px;
+  }
+  .twelve_banner{
+    height: 400px;
+    padding: 0 67px;
+    display: flex;
+    justify-content: space-evenly;
   }
   .twe_first{
     width: 300px;
@@ -429,3 +425,94 @@ form.example input[type=text] {
     font-family: 'Helvetica','Arial',sans-serif;
     font-size: 14px;  
   }
+  .fifteenth_banner{
+    height: 400px;
+    padding: 0 100px;
+    display: flex;
+    justify-content: center;
+  }
+  .fif_con_1{
+    width: 600px;
+  }
+  .fif_con_2{
+    width: 600px;
+  }
+  .sixteenth_banner{
+    background-color:yellow;
+    height: 130px ;
+    padding: 0 100px;
+    display: flex;
+    justify-content: center;
+  }
+  .six_con_1{
+    margin: 0%;
+    width: 380px;
+    height: 80px;
+    font-family:fantasy;
+    object-fit: contain;
+    font-size: 33px;
+    margin-right: 242px;
+  }
+  .six_con_2{
+    background-color: black;
+    color: #fff;
+    width: 173px;
+    height: 50px;
+    /* box-shadow: inset -3px -3px 0px 0px; */
+    font-weight: 700;
+    font-size: 14px;
+    margin: 30px 0 0 -225px;
+  }
+  .seventeenth_banner{
+    height: 400px;
+    padding: 0 250px;
+    display: flex;
+  }
+  .seven_1{
+    width: 200px;
+    height: 400px;
+  }
+  .seven_2{
+    width: 200px;
+    height: 400px;
+  }
+  .seven_3{
+    width: 200px;
+    height: 400px;
+  }
+  .seven_4{
+    width: 200px;
+    height: 400px;
+  }
+  .seven_5{
+    width: 200px;
+    height: 400px;
+  }
+  .eighteenth_banner{
+    background-color:#363738;
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    padding: 0 100px;
+    margin-top: 25px;
+  }
+  .banner_18_ul{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  .banner_18_1{
+    color:#c8cbcc;
+    text-decoration: none;
+  }
+  .banner_19{
+    position: absolute;
+    color:#c8cbcc;
+    bottom: 0;
+    left: 200px;
+
+  }
+  
+  
